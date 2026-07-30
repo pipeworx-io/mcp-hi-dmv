@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/hi-dmv",
+  "title": "Hawaii Vehicle Registrations",
+  "description": "Hawaii: cumulative hybrid and electric vehicles registered statewide since 1999",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/hi-dmv",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-hi-dmv",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/hi-dmv/mcp"
+    }
+  ]
+}
