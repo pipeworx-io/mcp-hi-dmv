@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hi-dmv",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Hawaii vehicle-registration MCP — the statewide cumulative count of hybrid and electric vehicles registered in Hawaii, as a clean annual series from 1999 to the present. Keyless.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "hi-dmv",
     "gatewaySlug": "hi-dmv",
-    "sourceHash": "v1-1653e6d8392895c0df173823d25e092ac148e1f583bfb15631fd86d21155422f",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-085f96aae3a4bc2096afb22fbc40221ad9fc579a005d80afaddb57836596ae80",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
